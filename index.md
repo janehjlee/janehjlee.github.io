@@ -25,3 +25,14 @@ p. 106 544, Jan. 2021, issn: 0747-5632. [pdf](http://wwbp.org/papers/chb-2020.pd
 Machine Learning Research (JMLR), vol. 21, no. 245, pp. 1–71, 2020. [pdf](https://arxiv.org/abs/1907.10905)
 * S. Chen, E. Dobriban, and **J. Lee**, "A group-theoretic framework for data augmentation", in Advances in
 Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
+
+
+## Teaching
+University of Pennsylvania:
+- Machine Learning (CIS 520), Teaching Assistant (Spring 2018, Spring 2019)
+- Algorithms (CIS 320), Teaching Assistant (Spring 2019)
+- Agent-Based Modeling and Simulation (ESE 520), Teaching Assistant (Fall 2018)
+- Internet and Web Systems (CIS 555), Teaching Assistant (Spring 2018)
+- Software Engineering (CIS 573), Head Teaching Assistant (Fall 2017)
+- Software Engineering (CIS 350), Teaching Assistant (Spring 2017)
+- Data Structures and Algorithms (CIS 121), Head Teaching Assistant (Fall 2017), Teaching Assistant (Fall 2016, Spring 2017)
