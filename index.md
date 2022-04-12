@@ -10,7 +10,7 @@ I am supported by a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowsh
 
 # Research
 
-I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and use of machine learning algorithms. 
+I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
 
 ## Publications
 
