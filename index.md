@@ -6,7 +6,7 @@ layout: default
 
 Hi! I am a first-year Computer Science Ph.D. student at Yale University, advised by [Amin Karbasi](http://iid.yale.edu). Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://www.shivani-agarwal.net) for my master's thesis.
 
-I am supported by a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship, sponsored by the NSA. 
+I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the NSA. 
 
 
 ## Research
