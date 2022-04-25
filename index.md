@@ -36,3 +36,17 @@ University of Pennsylvania:
 - Software Engineering (CIS 573), Head Teaching Assistant (Fall 2017)
 - Software Engineering (CIS 350), Teaching Assistant (Spring 2017)
 - Data Structures and Algorithms (CIS 121), Head Teaching Assistant (Fall 2017), Teaching Assistant (Fall 2016, Spring 2017)
+
+
+## Service and Outreach
+I believe that being able to give back to others is a privilege. I have received much help to get to where I am today, and I am glad to be in a position to be of help to others now. I enjoy volunteering with organizations that help students with meeting their educational needs because I feel that education is one way to empower young people to take control of their futures.
+
+(External) Volunteering:
+- [Microsoft TEALS Program](https://www.microsoft.com/en-us/teals), Volunteer Teaching Assistant (2021-Current)
+- [The SMART Program](https://thesmartprogram.org), Volunteer Tutor (2019-2021)
+
+Service:
+- Yale Graduate Student Assembly, Computer Science Department Representative (2022-Current)
+- Yale Computer Science Graduate Student Advisory Committee (GSAC), Provisional Member (2022-Current)
+- Women in Science at Yale (WISAY), Graduate Student Mentor (2021-Current)
+- University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
