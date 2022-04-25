@@ -47,7 +47,7 @@ I believe that being able to give back to others is a privilege. I have received
 (For others who are interested, I highly recommend volunteering with the above organizations. I've had a great time working with the staff who are very organized and the students who are eager to learn. The SMART program is local to the the San Francisco Bay Area, but the TEALS program works with high schools throughout the country.)
 
 Service:
-- Yale Graduate Student Assembly, Computer Science Department Representative (2022-Current)
+- Yale Graduate Student Assembly (GSA), Computer Science Department Representative (2022-Current)
 - Yale Computer Science Graduate Student Advisory Committee (GSAC), Provisional Member (2022-Current)
 - Women in Science at Yale (WISAY), Graduate Student Mentor (2021-Current)
 - University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
