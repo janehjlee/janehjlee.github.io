@@ -39,7 +39,7 @@ University of Pennsylvania:
 
 
 ## Service and Outreach
-I believe that being able to give back to others is a privilege. I have received much help to get to where I am today, and I am glad to finally be in a position to be of help to others now. I enjoy volunteering with organizations that help students with meeting their educational needs because I feel that education is one way to empower young people to take control of their futures.
+I believe that being able to give back to others is a privilege. I have received much help to get to where I am today, and I am glad to finally be in a position to be of help to others. I enjoy volunteering with organizations that help students with meeting their educational needs because I feel that education is one way to empower young people to take control of their futures.
 
 (External) Volunteering:
 - [Microsoft TEALS Program](https://www.microsoft.com/en-us/teals), Volunteer Teaching Assistant (2021-Current)
