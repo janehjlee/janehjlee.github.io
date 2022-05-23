@@ -28,6 +28,9 @@ Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf
 
 
 ## Teaching
+Yale University:
+- Introduction to Database Systems (CPSC 437), Teaching Fellow (Fall 2022)
+
 University of Pennsylvania:
 - Machine Learning (CIS 520), Teaching Assistant (Spring 2018, Spring 2019)
 - Algorithms (CIS 320), Teaching Assistant (Spring 2019)
@@ -45,7 +48,7 @@ I believe that being able to give back to others is a privilege. I have received
 - [Microsoft TEALS Program](https://www.microsoft.com/en-us/teals), Volunteer Teaching Assistant (2021-Current)
 - [The SMART Program](https://thesmartprogram.org), Volunteer Tutor (2019-2021)
 
-(For those who are interested, I highly recommend volunteering with the above organizations. I've had a great time working with the staff who are very organized and the students who are eager to learn. The SMART program is local to the the San Francisco Bay Area, but the TEALS program works with high schools throughout the country.)
+(For those who are interested in getting involved, I highly recommend volunteering with the above organizations. I've had a great time working with the staff who are very organized and the students who are eager to learn. The SMART program is local to the the San Francisco Bay Area, but the TEALS program works with high schools throughout the country.)
 
 Service:
 - Yale Graduate Student Assembly (GSA), Computer Science Department Representative (2022-Current)
