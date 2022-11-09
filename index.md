@@ -51,7 +51,7 @@ I believe that being able to give back to others is a privilege. I have received
 (For those who are interested in getting involved, I highly recommend volunteering with the above organizations. I've had a great time working with the staff who are very organized and the students who are eager to learn. The SMART program is local to the the San Francisco Bay Area, but the TEALS program works with high schools throughout the country.)
 
 Service:
-- Yale Graduate Student Assembly (GSA), Computer Science Department Representative (2022-Current)
+- Yale Graduate Student Assembly (GSA), Serivce Commitee Chair, Computer Science Department Representative (2022-Current)
 - Yale Computer Science Graduate Student Advisory Committee (GSAC), Provisional Member (2022-Current)
 - Women in Science at Yale (WISAY), Graduate Student Mentor (2021-Current)
 - University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
@@ -59,5 +59,5 @@ Service:
 
 ## Miscellaneous
 - My [sister](https://renaalee.github.io) is also a graduate student, in astronomy. Check out her page!
-- I have been playing [Puzzle and Dragons](https://www.puzzleanddragons.us) (on and off) since high school. These days I am usually running Daytona but leave Raffine or Atelie in my first slot for friends. I also like to play Pokemon Go and Don't Starve Together, so if you are at Yale let me know if you'd like to be friends on any of these games.
+- I have been playing [Puzzle and Dragons](https://www.puzzleanddragons.us) (on and off) since high school. These days I am usually running Daytona/Blackbird but leave Raffine or Atelie in my first slot for friends. I also like to play Pokemon Go and Don't Starve Together, so if you are at Yale let me know if you'd like to be friends on any of these games.
 - I also like cooking, painting, and fashion.
