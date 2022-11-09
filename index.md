@@ -15,7 +15,7 @@ I am interested in machine learning theory and optimization, particularly when t
 
 ### Publications
 
-* **J. Lee**, S. Haghighatshoar, A. Karbasi, "Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation", _Under Review_
+* **J. Lee**, S. Haghighatshoar, A. Karbasi, "Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation", _Under Review_, [preprint](https://arxiv.org/pdf/2210.15415.pdf)
 * M. Zhang, **J. Lee**, and S. Agarwal, "Learning from noisy labels with no change to the training process",
 in International Conference on Machine Learning (ICML), Jul. 2021. [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
 * K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar, "The rural–urban stress
