@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-Hi! I am a Computer Science Ph.D. student at Yale University, working with [Amin Karbasi](http://iid.yale.edu). Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://www.shivani-agarwal.net) for my master's thesis.
+Hi! I am a second-year Computer Science Ph.D. student at Yale University, working with [Amin Karbasi](http://iid.yale.edu). Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://www.shivani-agarwal.net) for my master's thesis.
 
 I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the NSA. 
 
@@ -30,7 +30,8 @@ Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf
 
 ## Teaching
 Yale University:
-- Introduction to Database Systems (CPSC 437), Teaching Fellow (Fall 2022)
+- Probabilistic Machine Learning (CPSC 586), Teaching Fellow (Spring 2023)
+- Introduction to Database Systems (CPSC 537), Teaching Fellow (Fall 2022)
 
 University of Pennsylvania:
 - Machine Learning (CIS 520), Teaching Assistant (Spring 2018, Spring 2019)
