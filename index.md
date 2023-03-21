@@ -62,6 +62,6 @@ Service:
 
 
 ## Miscellaneous
-- My [sister](https://renaalee.github.io) is also a PhD student, in astronomy. Check out her page!
+- My [sister](https://renaalee.github.io) is also a (really accomplished!) PhD student, in astronomy. Check out her page!
 - I have been playing [Puzzle and Dragons](https://www.puzzleanddragons.us) (on and off) since high school. These days I am usually rotating through RAS, Seawolf, and Malzeno leads. I also like to play Pokemon Go and Don't Starve Together, so if you are at Yale let me know if you'd like to be friends on any of these games.
 - I also like cooking, painting, and fashion.
