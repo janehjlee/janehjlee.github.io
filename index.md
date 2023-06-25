@@ -14,7 +14,7 @@ I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2
 I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
 
 ### Working Papers
-* **J. H. Lee**, A. Wibisono, M. Zampetakis,"Learning Exponential Families from Truncated Samples"
+* **J. H. Lee**, A. Wibisono, M. Zampetakis, "Learning Exponential Families from Truncated Samples"
      * Preliminary version to appear at New Frontiers in Adversarial Machine Learning Workshop @ ICML 2023
 * **J. H. Lee**, K. Nikolakakis, D. Kalogerias, A. Karbasi, "Reward-Based Reinforcement Learning with Risk Constraints"
      * Preliminary version to appear at Duality Principles for Modern Machine Learning Workshop @ ICML 2023
