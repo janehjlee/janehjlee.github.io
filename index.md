@@ -62,7 +62,9 @@ Service:
 - Yale Graduate Student Assembly (GSA)
     - Serivce Committee Chair (2022-2023, 2023-2024)
     - Computer Science Department Representative (2022-2023, 2023-2024)
-- Yale Computer Science Graduate Student Advisory Committee (GSAC), Provisional Member (2022-Current)
+- Yale Computer Science Graduate Student Advisory Committee (GSAC)
+    - Provisional Member (2022-2023)
+    - Elected Member (2023-2024)
 - Women in Science at Yale (WISAY), Graduate Student Mentor (2021-Current)
 - University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
 
