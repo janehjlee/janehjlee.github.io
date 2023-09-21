@@ -30,7 +30,7 @@ divide: Obtaining geographical insights through twitter", Computers in Human Beh
 p. 106 544, Jan. 2021, issn: 0747-5632. [pdf](http://wwbp.org/papers/chb-2020.pdf)
 * S. Chen, E. Dobriban, and **J. H. Lee**, "A group-theoretic framework for data augmentation", Journal of
 Machine Learning Research (JMLR), vol. 21, no. 245, pp. 1–71, 2020. [pdf](https://arxiv.org/abs/1907.10905)
-* S. Chen, E. Dobriban, and **J. Lee**, "A group-theoretic framework for data augmentation", in Advances in
+* S. Chen, E. Dobriban, and **J. H. Lee**, "A group-theoretic framework for data augmentation", in Advances in
 Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
 
 
