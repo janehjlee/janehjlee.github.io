@@ -19,10 +19,8 @@ I am interested in machine learning theory and optimization, particularly when t
 
 ### Publications
 
-* **J. H. Lee**, A. Wibisono, M. Zampetakis, "Learning Exponential Families from Truncated Samples, _to appear in NeurIPS 2023_.
-     * Preliminary version presented at New Frontiers in Adversarial Machine Learning Workshop @ ICML 2023
+* **J. H. Lee**, A. Wibisono, M. Zampetakis, "Learning Exponential Families from Truncated Samples, in Advances in Neural Information Processing Systems (NeurIPS), 2023. [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
 * **J. H. Lee**, S. Haghighatshoar, A. Karbasi, "Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation", in International Conference on Artificial Intelligence and Statistics, (AISTATS), 2023. [pdf](https://arxiv.org/pdf/2210.15415.pdf)
-    * Preliminary version presented at Optimization for Machine Learning Workshop @ NeurIPS 2022
 * M. Zhang, **J. Lee**, and S. Agarwal, "Learning from noisy labels with no change to the training process",
 in International Conference on Machine Learning (ICML), Jul. 2021. [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
 * K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar, "The rural–urban stress
@@ -36,6 +34,8 @@ Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf
 
 ## Teaching
 Yale University:
+
+I received the Yale CS Department Distinguished Teaching Award for 2022-2023.
 - Probabilistic Machine Learning (CPSC 586), Teaching Fellow (Spring 2023) [evaluation](/assets/docs/Evals_10-11.pdf)
 - Introduction to Database Systems (CPSC 537), Teaching Fellow (Fall 2022) [evaluation](/assets/docs/Evals_22-23.pdf)
 
