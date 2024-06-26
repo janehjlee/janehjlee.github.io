@@ -53,7 +53,7 @@ University of Pennsylvania:
 I believe that being able to give back to others is a privilege. I have received much help to get to where I am today, and I am glad to be able to help others now. I enjoy volunteering with organizations that help students with meeting their educational needs because I feel that education is one way to empower young people to take control of their futures.
 
 (External) Volunteering:
-- [Microsoft TEALS Program](https://www.microsoft.com/en-us/teals), Volunteer Teaching Assistant (2021-Current)
+- [Microsoft TEALS Program](https://www.microsoft.com/en-us/teals), Volunteer Teaching Assistant (2021-2024)
 - [The SMART Program](https://thesmartprogram.org), Volunteer Tutor (2019-2021)
 
 (For those who are interested in getting involved, I highly recommend volunteering with the above organizations. I've had a great time working with the staff who are very organized and the students who are eager to learn. The SMART program is local to the the San Francisco Bay Area, but the TEALS program works with high schools throughout the country.)
@@ -61,17 +61,17 @@ I believe that being able to give back to others is a privilege. I have received
 Service:
 - Yale Graduate Student Assembly (GSA)
     - Serivce Committee Chair (2022-2023, 2023-2024)
-    - Computer Science Department Representative (2022-2023, 2023-2024)
+    - Computer Science Department Representative (2022-2023, 2023-2024, 2024-2025)
 - Yale Computer Science Graduate Student Advisory Committee (GSAC)
     - Provisional (Founding) Member (2022-2023)
     - Elected Member (2023-2024)
 - Yale Graduate Society of Women Engineers (SWE) Mentorship Program, Graduate Student Mentor (2023-Current)
 - Women in Science at Yale (WISAY), Graduate Student Mentor (2021-Current)
-- STEM Mentors at Yale, Graduate Student Mentor (2021-Current)
+- STEM Mentors at Yale, Graduate Student Mentor (2021-2023)
 - University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
 
 
 ## Miscellaneous
 - My [sister](https://renaalee.github.io) is also a (really accomplished!) PhD student, in astronomy. Check out her page!
-- I have been playing [Puzzle and Dragons](https://www.puzzleanddragons.us) (on and off) since high school. I also like to play Pokemon Go and Don't Starve Together and lately Yu-Gi-Oh! Master Duel, so if you are at Yale let me know if you'd like to be friends on any of these games.
+- I have been playing [Puzzle and Dragons](https://www.puzzleanddragons.us) (on and off) since high school. I also like to play Pokemon Go and Don't Starve Together and lately Yu-Gi-Oh! Master Duel and Hearthstone, so if you are at Yale let me know if you'd like to be friends on any of these games.
 - I also enjoy cooking, painting, and fashion.
