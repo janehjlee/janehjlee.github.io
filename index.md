@@ -28,9 +28,10 @@ Machine Learning Research (JMLR), vol. 21, no. 245, pp. 1–71, 2020. [pdf](http
 * S. Chen, E. Dobriban, and **J. H. Lee**, "A group-theoretic framework for data augmentation", in Advances in
 Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
 
-## Workshop Papers and Preprints
+### Workshop Papers and Preprints
 * **J. H. Lee**, K. Nikolakakis, D. Kalogerias, A. Karbasi, "Reward-Based Reinforcement Learning with Risk Constraints"
      * Preliminary version presented at Duality Principles for Modern Machine Learning Workshop @ ICML 2023
+       
 
 
 ## Teaching
