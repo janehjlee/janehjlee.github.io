@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work with [Manolis Zampetakis](https://mzampet.com) and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/). Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://www.amcs.upenn.edu/people/shivani-agarwal) for my master's thesis.
+Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work with [Manolis Zampetakis](https://mzampet.com) and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/). Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://scholar.google.com/citations?user=Q4ErnU4AAAAJ&hl=en) for my master's thesis.
 
 I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the U.S. National Security Agency (NSA). 
 
