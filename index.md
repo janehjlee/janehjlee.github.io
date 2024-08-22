@@ -13,9 +13,6 @@ I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2
 
 I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
 
-### Working Papers
-* **J. H. Lee**, K. Nikolakakis, D. Kalogerias, A. Karbasi, "Reward-Based Reinforcement Learning with Risk Constraints"
-     * Preliminary version presented at Duality Principles for Modern Machine Learning Workshop @ ICML 2023
 
 ### Publications
 
@@ -30,6 +27,10 @@ p. 106 544, Jan. 2021, issn: 0747-5632. [pdf](http://wwbp.org/papers/chb-2020.pd
 Machine Learning Research (JMLR), vol. 21, no. 245, pp. 1–71, 2020. [pdf](https://arxiv.org/abs/1907.10905)
 * S. Chen, E. Dobriban, and **J. H. Lee**, "A group-theoretic framework for data augmentation", in Advances in
 Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
+
+## Workshop Papers and Preprints
+* **J. H. Lee**, K. Nikolakakis, D. Kalogerias, A. Karbasi, "Reward-Based Reinforcement Learning with Risk Constraints"
+     * Preliminary version presented at Duality Principles for Modern Machine Learning Workshop @ ICML 2023
 
 
 ## Teaching
