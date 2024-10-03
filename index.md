@@ -16,7 +16,7 @@ I am interested in machine learning theory and optimization, particularly when t
 
 ### Publications
 
-* **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*, "Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians", in IEEE Symposium on Foundations of Computer Science (FOCS), 2024. [accepted papers](https://focs.computer.org/2024/accepted-papers-for-focs-2024/)
+* **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*, "Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians", in IEEE Symposium on Foundations of Computer Science (FOCS), 2024. [pdf](https://arxiv.org/pdf/2410.01656)
 * **J. H. Lee**, A. Wibisono, M. Zampetakis, "Learning Exponential Families from Truncated Samples, in Advances in Neural Information Processing Systems (NeurIPS), 2023. [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
 * **J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi, "Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation", in International Conference on Artificial Intelligence and Statistics, (AISTATS), 2023. [pdf](https://arxiv.org/pdf/2210.15415.pdf)
 * M. Zhang, **J. Lee**, and S. Agarwal, "Learning from noisy labels with no change to the training process",
