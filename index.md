@@ -13,9 +13,12 @@ I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2
 
 I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
 
+### Preprint/Working Papers
+* **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*, "Learning with Positive and Imperfect Unlabeled Samples". Preprint. [pdf](https://arxiv.org/pdf/2504.10428)
 
 ### Publications
 
+* **J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias. "Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents", in Advances in Neural Information Processing Systems (NeurIPS), 2025. Forthcoming.
 * **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*, "Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians", in IEEE Symposium on Foundations of Computer Science (FOCS), 2024. [pdf](https://arxiv.org/pdf/2410.01656)
 * **J. H. Lee**, A. Wibisono, M. Zampetakis, "Learning Exponential Families from Truncated Samples", in Advances in Neural Information Processing Systems (NeurIPS), 2023. [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
 * **J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi, "Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation", in International Conference on Artificial Intelligence and Statistics, (AISTATS), 2023. [pdf](https://arxiv.org/pdf/2210.15415.pdf)
@@ -65,13 +68,13 @@ Service:
 - Yale Computer Science Graduate Student Advisory Committee (GSAC)
     - Provisional (Founding) Member (2022-2023)
     - Elected Member (2023-2024)
-- Yale Graduate Society of Women Engineers (SWE) Mentorship Program, Graduate Student Mentor (2023-Current)
-- Women in Science at Yale (WISAY), Graduate Student Mentor (2021-Current)
+- Yale Graduate Society of Women Engineers (SWE) Mentorship Program, Graduate Student Mentor (2023-2025)
+- Women in Science at Yale (WISAY), Graduate Student Mentor (2021-2025)
 - STEM Mentors at Yale, Graduate Student Mentor (2021-2023)
 - University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
 
 
 ## Miscellaneous
 - My [sister](https://renaalee.github.io) is also a (really accomplished!) PhD student, in astronomy. Check out her page!
-- I have been playing [Puzzle and Dragons](https://www.puzzleanddragons.us) (on and off) since high school. I also like to play Pokemon Go and Don't Starve Together and lately Yu-Gi-Oh! Master Duel and Hearthstone, so if you are at Yale let me know if you'd like to be friends on any of these games.
-- I also enjoy cooking, painting, and fashion.
+- I like playing Pokemon TCG Pocket these days and Stardew Valley on the Switch. I also enjoy Don't Starve Together and am looking for new games to play, so if you are at Yale let me know if you'd like to be friends on any of these (or new) games.
+- I also enjoy cooking, fashion, fitness, and painting.
