@@ -14,25 +14,33 @@ I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2
 I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
 
 ### Preprint/Working Papers
-* **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*, "Learning with Positive and Imperfect Unlabeled Samples". Preprint. [pdf](https://arxiv.org/pdf/2504.10428)
+* **``Learning with Positive and Imperfect Unlabeled Samples''** (Preprint)
+    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428)
 
 ### Publications
+(* = alphabetical or equal)
 
-* **J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias. "Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents", in Advances in Neural Information Processing Systems (NeurIPS), 2025. Forthcoming.
-* **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*, "Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians", in IEEE Symposium on Foundations of Computer Science (FOCS), 2024. [pdf](https://arxiv.org/pdf/2410.01656)
-* **J. H. Lee**, A. Wibisono, M. Zampetakis, "Learning Exponential Families from Truncated Samples", in Advances in Neural Information Processing Systems (NeurIPS), 2023. [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
-* **J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi, "Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation", in International Conference on Artificial Intelligence and Statistics, (AISTATS), 2023. [pdf](https://arxiv.org/pdf/2210.15415.pdf)
-* M. Zhang, **J. Lee**, and S. Agarwal, "Learning from noisy labels with no change to the training process",
-in International Conference on Machine Learning (ICML), Jul. 2021. [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
-* K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar, "The rural–urban stress
-divide: Obtaining geographical insights through twitter", Computers in Human Behavior, vol. 114,
-p. 106 544, Jan. 2021, issn: 0747-5632. [pdf](http://wwbp.org/papers/chb-2020.pdf)
-* S. Chen, E. Dobriban, and **J. H. Lee**, "A group-theoretic framework for data augmentation", Journal of
-Machine Learning Research (JMLR), vol. 21, no. 245, pp. 1–71, 2020. [pdf](https://arxiv.org/abs/1907.10905)
-* S. Chen, E. Dobriban, and **J. H. Lee**, "A group-theoretic framework for data augmentation", in Advances in
-Neural Information Processing Systems (NeurIPS), _Oral Presentation_, 2020. [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
+#### Peer-Reviewed Conferences
+* **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
+    * _**J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias_ (Forthcoming)
+* **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (FOCS 2024)
+    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2410.01656)
+* **"Learning Exponential Families from Truncated Samples"** (NeurIPS 2023)
+    * _**J. H. Lee**, A. Wibisono, M. Zampetakis_ [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
+* **"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
+    * _**J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi_ [pdf](https://arxiv.org/pdf/2210.15415.pdf)
+* **"Learning from noisy labels with no change to the training process"** (ICML 2021)
+    * _M. Zhang, **J. Lee**, and S. Agarwal_ [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
+* **"A group-theoretic framework for data augmentation"** (NeurIPS 2020, _Oral Presentation_)
+    * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
+ 
+#### Journal Articles
+* **"The rural–urban stress divide: Obtaining geographical insights through twitter"** in Computers in Human Behavior
+    * _K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar_ [pdf](http://wwbp.org/papers/chb-2020.pdf)
+* **"A group-theoretic framework for data augmentation"** in Journal of
+Machine Learning Research (JMLR)
+    * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://arxiv.org/abs/1907.10905)
 
-       
 
 
 ## Teaching
