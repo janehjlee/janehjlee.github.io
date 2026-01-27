@@ -16,13 +16,13 @@ I am interested in machine learning theory and optimization, particularly when t
 ### Preprint/Working Papers
 * **"Learning with Positive and Imperfect Unlabeled Samples"** (Preprint)
     * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428)
-* **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (Preprint)
-    * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
 
 ### Publications
 (* = alphabetical or equal)
 
 #### Peer-Reviewed Conferences
+* **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (ICLR 2026)
+    * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
 * **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
     * _**J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias_ [pdf](https://arxiv.org/abs/2510.20199)
 * **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (FOCS 2024)
