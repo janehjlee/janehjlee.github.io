@@ -13,14 +13,13 @@ I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2
 
 I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
 
-### Preprint/Working Papers
-* **"Learning with Positive and Imperfect Unlabeled Samples"** (Preprint)
-    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428)
 
 ### Publications
 (* = alphabetical or equal)
 
 #### Peer-Reviewed Conferences
+* **"Smoothed Analysis of Learning from Positive Samples"** (STOC 2026)
+    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428) (To be updated)
 * **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (ICLR 2026)
     * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
 * **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
