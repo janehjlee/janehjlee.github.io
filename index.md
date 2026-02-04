@@ -85,5 +85,5 @@ Service:
 
 ## Miscellaneous
 - My [sister](https://renaalee.github.io) is also a (really accomplished!) PhD student, in astronomy. Check out her page!
-- I like playing Pokemon TCG Pocket these days and Stardew Valley on the Switch. I also enjoy Don't Starve Together and am looking for new games to play, so if you are at Yale let me know if you'd like to be friends on any of these (or new) games.
+- I just started playing League of Legends Wild Rift on the phone to ease myself into LoL (fellow beginners, duo with me!). I also enjoy Don't Starve Together, Pokemon games, and am looking for new games to play, so if you are at Yale let me know if you'd like to be friends on any of these (or new) games.
 - I also enjoy cooking, fashion, fitness, and painting.
