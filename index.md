@@ -23,12 +23,15 @@ I am interested in machine learning theory and optimization, particularly when t
 * **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (ICLR 2026)
     * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
 * **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
+    * _Preliminary version in Duality Principles for Modern Machine Learning Workshop @ ICML 2023_
     * _**J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias_ [pdf](https://arxiv.org/abs/2510.20199)
 * **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (FOCS 2024)
     * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2410.01656)
 * **"Learning Exponential Families from Truncated Samples"** (NeurIPS 2023)
+    * _Preliminary version in Workshop on New Frontiers in Adversarial Machine Learning @ ICML 2023_
     * _**J. H. Lee**, A. Wibisono, M. Zampetakis_ [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
 * **"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
+    * _Preliminary version in Optimization for Machine Learning Workshop @ NeurIPS 2022_ 
     * _**J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi_ [pdf](https://arxiv.org/pdf/2210.15415.pdf)
 * **"Learning from noisy labels with no change to the training process"** (ICML 2021)
     * _M. Zhang, **J. Lee**, and S. Agarwal_ [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
