@@ -4,22 +4,26 @@ layout: default
 
 ## About
 
-Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work with [Manolis Zampetakis](https://mzampet.com) and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/). Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://scholar.google.com/citations?user=Q4ErnU4AAAAJ&hl=en) for my master's thesis.
+Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work with [Manolis Zampetakis](https://mzampet.com) and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/). During my Ph.D., I have also benefited from having great mentors during several professional internships. I will be interning during Summer 2026 at Google as a Student Researcher hosted by [Jinoo Baek](https://dblp.org/pid/367/3210.html), [Jieru Mei](https://meijieru.com/), and [Lucas Spangher](https://scholar.google.com/citations?user=SiEqk9kAAAAJ&hl=en). In Summer/Fall 2025, I interned at Meta as a Research Scientist Intern hosted by [Mandy Chen](https://scholar.google.com/citations?user=VH7RnnAAAAAJ&hl=zh-CN). In Summer 2024, I interned at Morgan Stanley as a Machine Learning Research Associate hosted by [Andrew Bennett](https://awbennett.net/). 
 
-I received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the U.S. National Security Agency (NSA). I received the Greenberg Fellowship from Yale in 2024.
+Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://scholar.google.com/citations?user=Q4ErnU4AAAAJ&hl=en) for my master's thesis.
+
+I am grateful to have received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the U.S. National Security Agency (NSA). I received the Greenberg Fellowship from Yale in 2024. 
 
 
 ## Research
 
-I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. 
+I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. My research has focused largely on dealing with noise, missing information, and uncertainties in available data. 
 
 
 ### Publications
 (* = alphabetical or equal)
 
 #### Peer-Reviewed Conferences
+* **"Learning-Enabled Estimation: Tight Characterizations under Sample Selection Biases"** (EC 2026)
+    * _V. Kher\*, **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ (available soon)
 * **"Smoothed Analysis of Learning from Positive Samples"** (STOC 2026)
-    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428) (To be updated)
+    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428) 
 * **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (ICLR 2026)
     * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
 * **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
