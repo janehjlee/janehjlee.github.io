@@ -8,7 +8,7 @@ Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work 
 
 Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://scholar.google.com/citations?user=Q4ErnU4AAAAJ&hl=en) for my master's thesis.
 
-I am grateful to have received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the U.S. National Security Agency (NSA). I received the Greenberg Fellowship from Yale in 2024. 
+I am grateful to have received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the U.S. National Security Agency (NSA). I received the Greenberg Fellowship from Yale in 2024. I received my department's teaching award for 2022-2023.
 
 
 ## Research
