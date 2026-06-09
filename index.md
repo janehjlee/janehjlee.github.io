@@ -33,7 +33,7 @@ I am interested in machine learning theory and optimization, particularly when t
     * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2410.01656)
 * **"Learning Exponential Families from Truncated Samples"** (NeurIPS 2023)
     * _Preliminary version in Workshop on New Frontiers in Adversarial Machine Learning @ ICML 2023_
-    * _**J. H. Lee**, A. Wibisono, M. Zampetakis_ [pdf](https://openreview.net/pdf?id=PxcWJqO3qj)
+    * _**J. H. Lee**, A. Wibisono, M. Zampetakis_ [pdf]([https://openreview.net/pdf?id=PxcWJqO3qj](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6d5f304fb4ed0243851e41699dca4287-Abstract-Conference.html))
 * **"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
     * _Preliminary version in Optimization for Machine Learning Workshop @ NeurIPS 2022_ 
     * _**J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi_ [pdf](https://arxiv.org/pdf/2210.15415.pdf)
