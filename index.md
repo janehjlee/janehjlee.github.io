@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work with [Manolis Zampetakis](https://mzampet.com) and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/). During my Ph.D., I have also benefited from having great mentors during several professional internships. I will be interning during Summer and Fall 2026 at Google as a Student Researcher hosted by [Jinoo Baek](https://dblp.org/pid/367/3210.html) and [Jieru Mei](https://meijieru.com/). In Summer/Fall 2025, I interned at Meta as a Research Scientist Intern hosted by [Mandy Chen](https://scholar.google.com/citations?user=VH7RnnAAAAAJ&hl=zh-CN). In Summer 2024, I interned at Morgan Stanley as a Machine Learning Research Associate hosted by [Andrew Bennett](https://awbennett.net/). 
+Hi! I am a Computer Science Ph.D. student at Yale University, fortunate to work with [Manolis Zampetakis](https://mzampet.com) and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/). During my Ph.D., I have also benefited from having great mentors during several professional internships. I will be interning during Summer and Fall 2026 at Google as a Student Researcher hosted by [Jinoo Baek](https://dblp.org/pid/367/3210.html) and [Jieru Mei](https://meijieru.com/). In Summer and Fall 2025, I interned at Meta as a Research Scientist Intern hosted by [Mandy Chen](https://scholar.google.com/citations?user=VH7RnnAAAAAJ&hl=zh-CN). In Summer 2024, I interned at Morgan Stanley as a Machine Learning Research Associate hosted by [Andrew Bennett](https://awbennett.net/). 
 
 Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and Modeling team as a machine learning engineer. Before that, I completed my master's and bachelor's degrees together at the University of Pennsylvania, where I was advised by [Shivani Agarwal](https://scholar.google.com/citations?user=Q4ErnU4AAAAJ&hl=en) for my master's thesis.
 
@@ -51,7 +51,10 @@ I am interested in machine learning theory and optimization, particularly when t
 Machine Learning Research (JMLR)
     * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://arxiv.org/abs/1907.10905)
 
-
+## Structured Fellowships and Programs
+I am a fellow of the following special programs:
+* **AI Societal Impact Lab** [[link]](https://www.aisocietalimpactlab.com/fellowship-autumn-2026) -- Inaugural Autumn 2026 Fellow 
+* **Mass Atrocities in the Digital Era (MADE)** [[link]](https://macmillan.yale.edu/gsp/fellowship) -- Fellow (2025-2026, 2026-2027)
 
 ## Teaching
 Yale University:
