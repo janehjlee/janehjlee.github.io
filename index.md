@@ -13,7 +13,7 @@ I am grateful to have received a [GFSD](https://stemfellowships.org) (formerly N
 
 ## Research
 
-I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. My research has focused largely on dealing with noise, missing information, uncertainties, and other limitations in available data. 
+I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. My research has focused largely on dealing with noise, missing information, uncertainties, and other limitations in available data. I've recently developed an interest in understanding the societal implications of AI and the technology we build. 
 
 
 ### Publications
