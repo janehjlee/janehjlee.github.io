@@ -45,6 +45,10 @@ I am interested in machine learning theory and optimization, particularly when t
     * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
  
 #### Journal Articles
+* **"Smoothed Analysis of Learning from Positive Samples"** (under review)
+    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428) 
+* **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (under review)
+    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2410.01656)
 * **"The rural–urban stress divide: Obtaining geographical insights through twitter"** in Computers in Human Behavior
     * _K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar_ [pdf](http://wwbp.org/papers/chb-2020.pdf)
 * **"A group-theoretic framework for data augmentation"** in Journal of
