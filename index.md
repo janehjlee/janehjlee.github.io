@@ -19,6 +19,12 @@ I am interested in machine learning theory and optimization, particularly when t
 ### Publications
 (* = alphabetical or equal)
 
+#### Workshops, Preprints, and Working Papers
+* **"Streaming Attention Approximation with Page-Aligned Memory Management"**
+    * _**J. H. Lee**, N. Jali, I. Han, A. Zandieh, J. Mei, J. Baek_
+* **"AnchorRank: Training-Free Anchor based Plan-and-Execute Decoding in DLMs"**
+    * _N. Jali, **J. H. Lee**, A. Nayak, C. Lin, J. Baek_
+
 #### Peer-Reviewed Conferences
 * **"Long-Term Risks of Risk-Based Allocation"** (NeurIPS 2026)
     * _J. N. Kaur\*, **J. H. Lee\***, M. Zampetakis\*_ (available soon)
@@ -58,7 +64,7 @@ Machine Learning Research (JMLR)
 ## Structured Fellowships and Programs
 I am a fellow of the following special programs:
 * **AI Societal Impact Lab** [[link]](https://www.aisocietalimpactlab.com/fellowship-autumn-2026) -- Inaugural Autumn 2026 Fellow 
-* **Mass Atrocities in the Digital Era (MADE)** [[link]](https://macmillan.yale.edu/gsp/fellowship) -- Fellow (2025-2026, 2026-2027)
+* **Mass Atrocities in the Digital Era (MADE)** [[link]](https://macmillan.yale.edu/gsp/fellowship) -- Fellow (2025-2026)
 
 ## Teaching
 Yale University:
