@@ -63,7 +63,7 @@ I am interested in machine learning theory and optimization, particularly when t
     * _Computers in Human Behavior_
     * _K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar_ [pdf](http://wwbp.org/papers/chb-2020.pdf)
 * **"A group-theoretic framework for data augmentation"** in Journal of Machine Learning Research (JMLR)
-    * _Extended version of NeurIPS paper of the same name_
+    * _Extended version of NeurIPS 2020 paper of the same name_
     * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://arxiv.org/abs/1907.10905)
 
 ## Structured Fellowships and Programs
