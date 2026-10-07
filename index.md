@@ -21,8 +21,10 @@ I am interested in machine learning theory and optimization, particularly when t
 
 #### Workshops, Preprints, and Working Papers
 * **"Streaming Attention Approximation with Page-Aligned Memory Management"**
+    * _Preliminary version in MLForSys and PALM Workshops @ NeurIPS 2026_
     * _**J. H. Lee**, N. Jali, I. Han, A. Zandieh, J. Mei, J. Baek_
 * **"AnchorRank: Training-Free Anchor based Plan-and-Execute Decoding in DLMs"**
+    * _Preliminary version in DiffuLM and BeNTo Workshops @ NeurIPS 2026_
     * _N. Jali, **J. H. Lee**, A. Nayak, C. Lin, J. Baek_
 
 #### Peer-Reviewed Conferences
