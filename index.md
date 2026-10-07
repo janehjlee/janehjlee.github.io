@@ -28,38 +28,28 @@ I am interested in machine learning theory and optimization, particularly when t
     * _N. Jali, **J. H. Lee**, A. Nayak, C. Lin, J. Baek_
 
 #### Peer-Reviewed Conferences
-* **"Long-Term Risks of Risk-Based Allocation"**
-    * _To appear in The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_
+* **"Long-Term Risks of Risk-Based Allocation"** (NeurIPS 2026)
     * _J. N. Kaur\*, **J. H. Lee\***, M. Zampetakis\*_ (available soon)
-* **"Learning-Enabled Estimation: Tight Characterizations under Sample Selection Biases"**
-    * _The Twenty-Seventh ACM Conference on Economics and Computation (EC 2026)_
+* **"Learning-Enabled Estimation: Tight Characterizations under Sample Selection Biases"** (EC 2026)
     * _V. Kher\*, **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/abs/2609.38608)
-* **"Smoothed Analysis of Learning from Positive Samples"** 
-    * _The 58th ACM Symposium on Theory of Computing (STOC 2026)_
+* **"Smoothed Analysis of Learning from Positive Samples"** (STOC 2026)
     * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/abs/2504.10428) 
-* **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"**
-    * _The Fourteenth International Conference on Learning Representations (ICLR 2026)_
+* **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (ICLR 2026)
     * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
-* **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** 
+* **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
     * _Preliminary version in Duality Principles for Modern Machine Learning Workshop @ ICML 2023_
-    * _The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)_
     * _**J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias_ [pdf](https://arxiv.org/abs/2510.20199)
-* **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** 
-    * _The 65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)_
+* **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (FOCS 2024)
     * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/abs/2410.01656)
-* **"Learning Exponential Families from Truncated Samples"** 
+* **"Learning Exponential Families from Truncated Samples"** (NeurIPS 2023)
     * _Preliminary version in Workshop on New Frontiers in Adversarial Machine Learning @ ICML 2023_
-    * _The Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)_
     * _**J. H. Lee**, A. Wibisono, M. Zampetakis_ [pdf](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6d5f304fb4ed0243851e41699dca4287-Abstract-Conference.html)
-* **"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** 
+* **"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
     * _Preliminary version in Optimization for Machine Learning Workshop @ NeurIPS 2022_
-    * _The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)_
     * _**J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi_ [pdf](https://arxiv.org/abs/2210.15415.pdf)
-* **"Learning from noisy labels with no change to the training process"**
-    * _The Thirty-Eighth International Conference on Machine Learning (ICML 2021)_
+* **"Learning from noisy labels with no change to the training process"** (ICML 2021)
     * _M. Zhang, **J. Lee**, and S. Agarwal_ [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
-* **"A group-theoretic framework for data augmentation"** 
-    * _Thirty-Fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020)_ **(Oral Presentation)**
+* **"A group-theoretic framework for data augmentation"** (NeurIPS 2020) **(Oral Presentation)**
     * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
  
 #### Journal Articles
