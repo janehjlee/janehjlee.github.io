@@ -69,10 +69,10 @@ I am interested in machine learning theory and optimization, particularly when t
 ## Structured Fellowships and Programs
 I am a fellow of the following special programs:
 * **AI Societal Impact Lab** [[link]](https://www.aisocietalimpactlab.com/fellowship-autumn-2026) -- Inaugural Autumn 2026 Fellow
-    * Studying the socio-political implications of emerging AI technology
+    * _Studying the socio-political implications of emerging AI technology_
 * **Mass Atrocities in the Digital Era (MADE)** [[link]](https://macmillan.yale.edu/gsp/fellowship) -- Fellow (2025-2026)
-    * Studying the role that emerging technology plays in mass atrocities, with a focus on accountability, corporate
-responsibility, and genocide studies scholarship
+    * _Studying the role that emerging technology plays in mass atrocities, with a focus on accountability, corporate
+responsibility, and genocide studies scholarship_
 
 ## Teaching
 Yale University:
