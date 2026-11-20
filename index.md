@@ -59,8 +59,7 @@ I am interested in machine learning theory and optimization, particularly when t
 * **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (under review)
     * _Extended version of FOCS 2024 paper of the same name_
     * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2410.01656)
-* **"The rural–urban stress divide: Obtaining geographical insights through twitter"** 
-    * _Computers in Human Behavior_
+* **"The rural–urban stress divide: Obtaining geographical insights through twitter"** in Computers in Human Behavior
     * _K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar_ [pdf](http://wwbp.org/papers/chb-2020.pdf)
 * **"A group-theoretic framework for data augmentation"** in Journal of Machine Learning Research (JMLR)
     * _Extended version of NeurIPS 2020 paper of the same name_
