@@ -99,7 +99,7 @@ I believe that being able to give back to others is a privilege. I have received
 
 (For those who are interested in getting involved, I highly recommend volunteering with the above organizations. I've had a great time working with the staff who are very organized and the students who are eager to learn. The SMART program is local to the the San Francisco Bay Area, but the TEALS program works with high schools throughout the country.)
 
-Service:
+University Service:
 - Yale Graduate Student Assembly (GSA)
     - Serivce Committee Chair (2022-2023, 2023-2024)
     - Computer Science Department Representative (2022-2023, 2023-2024, 2024-2025)
@@ -110,6 +110,12 @@ Service:
 - Women in Science at Yale (WISAY), Graduate Student Mentor (2021-2025)
 - STEM Mentors at Yale, Graduate Student Mentor (2021-2023)
 - University of Pennsylvania Women in Computer Science (WiCS) Alumni Mentorship Program, Mentor (Spring 2020)
+
+Academic Service:
+- Program committee: EC 2026
+- Reviewer: 
+    - Conferences: ITCS 2023, FOCS 2024, COLT 2025, NeurIPS 2025, ICLR 2026, EC 2026, NeurIPS 2026, SODA 2027, STOC 2027
+    - Journals: JMLR
 
 
 ## Miscellaneous
