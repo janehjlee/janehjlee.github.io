@@ -75,7 +75,7 @@ J. N. Kaur\*, **J. H. Lee\***, M. Zampetakis\*
 
 V. Kher\*, **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*
 
-*EC 2026* · [paper](https://arxiv.org/abs/2609.38608) · 
+*EC 2026* · [paper](https://arxiv.org/abs/2609.38608) 
 
 ---
 
