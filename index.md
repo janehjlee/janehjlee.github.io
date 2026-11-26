@@ -175,8 +175,8 @@ S. Chen, E. Dobriban, and **J. H. Lee**
 Yale University:
 
 I received the **Yale CS Department Distinguished Teaching Award** for 2022-2023.
-- Probabilistic Machine Learning (CPSC 586), Teaching Fellow (Spring 2023) [evaluation](/assets/docs/Evals_10-11.pdf)
-- Introduction to Database Systems (CPSC 537), Teaching Fellow (Fall 2022) [evaluation](/assets/docs/Evals_22-23.pdf)
+- Probabilistic Machine Learning (CPSC 586), Teaching Fellow (Spring 2023) · [evaluation](/assets/docs/Evals_10-11.pdf)
+- Introduction to Database Systems (CPSC 537), Teaching Fellow (Fall 2022) · [evaluation](/assets/docs/Evals_22-23.pdf)
 
 University of Pennsylvania:
 - Machine Learning (CIS 520), Teaching Assistant (Spring 2018, Spring 2019)
