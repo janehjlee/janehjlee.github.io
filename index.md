@@ -63,7 +63,7 @@ N. Jali, **J. H. Lee**, A. Nayak, C. Lin, J. Baek
 
 ---
 
-**"Long-Term Risks of Risk-Based Allocation"** (NeurIPS 2026)
+**"Long-Term Risks of Risk-Based Allocation"** 
 
 J. N. Kaur\*, **J. H. Lee\***, M. Zampetakis\*
 
@@ -79,7 +79,7 @@ V. Kher\*, **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*
 
 ---
 
-**"Smoothed Analysis of Learning from Positive Samples"** (STOC 2026)
+**"Smoothed Analysis of Learning from Positive Samples"** 
 
 **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*
 
@@ -123,7 +123,7 @@ Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan,
 
 ---
 
-**"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
+**"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** 
 
 **J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi
 
@@ -133,7 +133,7 @@ Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan,
 
 ---
 
-**"Learning from noisy labels with no change to the training process"** (ICML 2021)
+**"Learning from noisy labels with no change to the training process"** 
 
 M. Zhang, **J. Lee**, and S. Agarwal
 
@@ -141,7 +141,7 @@ M. Zhang, **J. Lee**, and S. Agarwal
 
 ---
 
-**"A group-theoretic framework for data augmentation"** (NeurIPS 2020) **(Oral Presentation)**
+**"A group-theoretic framework for data augmentation"** 
 
 S. Chen, E. Dobriban, and **J. H. Lee**
 
@@ -152,7 +152,7 @@ S. Chen, E. Dobriban, and **J. H. Lee**
 #### JOURNAL ARTICLES
 ---
 
-**"The rural–urban stress divide: Obtaining geographical insights through twitter"** in Computers in Human Behavior
+**"The rural–urban stress divide: Obtaining geographical insights through twitter"** 
 
 K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar
 
@@ -160,7 +160,7 @@ K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar
 
 ---
 
-**"A group-theoretic framework for data augmentation"** in Journal of Machine Learning Research (JMLR)
+**"A group-theoretic framework for data augmentation"** 
 
 S. Chen, E. Dobriban, and **J. H. Lee**
 
