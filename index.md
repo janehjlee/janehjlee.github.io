@@ -11,6 +11,26 @@ Prior to starting my Ph.D. studies, I worked at Twitter in the Ads Targeting and
 I am grateful to have received a [GFSD](https://stemfellowships.org) (formerly NPSC) fellowship in 2022, sponsored by the U.S. National Security Agency (NSA). I received the Greenberg Fellowship from Yale in 2024. I received my department's teaching award for 2022-2023. Recently, I was selected as a [2026-2027 Rising Star in EECS](https://risingstars.cs.washington.edu/).
 
 
+## Fellowships and Programs
+
+
+**AI Societal Impact Lab** 
+
+Studying the socio-political implications of emerging AI technology. As a cohort of 16, this fellowship brings together perspectives from different disciplines to look at societal impact of AI.
+
+*Inaugural Autumn 2026 Fellow* · [Fellowship Page](https://www.aisocietalimpactlab.com/fellowship-autumn-2026)
+
+ ---
+   
+**Mass Atrocities in the Digital Era (MADE)**
+
+Studying the role that emerging technology plays in mass atrocities, with a focus on accountability, corporate
+responsibility, and genocide studies scholarship. 
+
+*MADE Fellow (2025-2026)* · [Fellowship Page](https://macmillan.yale.edu/gsp/fellowship)
+
+---
+
 ## Research
 
 I am interested in machine learning theory and optimization, particularly when theoretical insights can improve the design and practical use of machine learning algorithms. My research has focused largely on dealing with noise, missing information, uncertainties, and other limitations in available data. I've recently developed an interest in understanding the societal implications of AI and the technology we build. 
@@ -150,25 +170,6 @@ S. Chen, E. Dobriban, and **J. H. Lee**
 
 ---
 
-## Structured Fellowships and Programs
-
-
-**AI Societal Impact Lab** 
-
-Studying the socio-political implications of emerging AI technology. As a cohort of 16, this fellowship brings together perspectives from different disciplines to look at societal impact of AI.
-
-*Inaugural Autumn 2026 Fellow* · [Fellowship Page](https://www.aisocietalimpactlab.com/fellowship-autumn-2026)
-
- ---
-   
-**Mass Atrocities in the Digital Era (MADE)**
-
-Studying the role that emerging technology plays in mass atrocities, with a focus on accountability, corporate
-responsibility, and genocide studies scholarship. 
-
-*MADE Fellow (2025-2026)* · [Fellowship Page](https://macmillan.yale.edu/gsp/fellowship)
-
----
 
 ## Teaching
 Yale University:
