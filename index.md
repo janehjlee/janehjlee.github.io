@@ -16,7 +16,7 @@ I am grateful to have received a [GFSD](https://stemfellowships.org) (formerly N
 
 **AI Societal Impact Lab** 
 
-Studying the socio-political implications of emerging AI technology. As a cohort of 16, this fellowship brings together perspectives from different disciplines to look at societal impact of AI.
+Studying the socio-political implications of emerging AI technology. As a cohort of 16, this fellowship brings together perspectives from different disciplines to look at the societal impact of AI.
 
 *Inaugural Autumn 2026 Fellow* · [Fellowship Page](https://www.aisocietalimpactlab.com/fellowship-autumn-2026)
 
