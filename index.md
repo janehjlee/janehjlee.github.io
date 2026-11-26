@@ -19,64 +19,161 @@ I am interested in machine learning theory and optimization, particularly when t
 ### Publications
 (* = alphabetical or equal)
 
-#### Workshops, Preprints, and Working Papers
-* **"Streaming Attention Approximation with Page-Aligned Memory Management"**
-    * _Preliminary version in MLForSys and PALM Workshops @ NeurIPS 2026_
-    * _**J. H. Lee**, N. Jali, I. Han, A. Zandieh, J. Mei, J. Baek_
-* **"AnchorRank: Training-Free Anchor based Plan-and-Execute Decoding in DLMs"**
-    * _Preliminary version in DiffuLM and BeNTo Workshops @ NeurIPS 2026_
-    * _N. Jali, **J. H. Lee**, A. Nayak, C. Lin, J. Baek_
+#### WORKSHOPS, PREPRINTS, AND WORKING PAPERS
 
-#### Peer-Reviewed Conferences
-* **"Long-Term Risks of Risk-Based Allocation"** (NeurIPS 2026)
-    * _J. N. Kaur\*, **J. H. Lee\***, M. Zampetakis\*_ (available soon)
-* **"Learning-Enabled Estimation: Tight Characterizations under Sample Selection Biases"** (EC 2026)
-    * _V. Kher\*, **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/abs/2609.38608)
-* **"Smoothed Analysis of Learning from Positive Samples"** (STOC 2026)
-    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/abs/2504.10428) 
-* **"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** (ICLR 2026)
-    * _Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang_ [pdf](https://arxiv.org/abs/2510.22049)
-* **"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** (NeurIPS 2025)
-    * _Preliminary version in Duality Principles for Modern Machine Learning Workshop @ ICML 2023_
-    * _**J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias_ [pdf](https://arxiv.org/abs/2510.20199)
-* **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (FOCS 2024)
-    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/abs/2410.01656)
-* **"Learning Exponential Families from Truncated Samples"** (NeurIPS 2023)
-    * _Preliminary version in Workshop on New Frontiers in Adversarial Machine Learning @ ICML 2023_
-    * _**J. H. Lee**, A. Wibisono, M. Zampetakis_ [pdf](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6d5f304fb4ed0243851e41699dca4287-Abstract-Conference.html)
-* **"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
-    * _Preliminary version in Optimization for Machine Learning Workshop @ NeurIPS 2022_
-    * _**J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi_ [pdf](https://arxiv.org/abs/2210.15415.pdf)
-* **"Learning from noisy labels with no change to the training process"** (ICML 2021)
-    * _M. Zhang, **J. Lee**, and S. Agarwal_ [pdf](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
-* **"A group-theoretic framework for data augmentation"** (NeurIPS 2020) **(Oral Presentation)**
-    * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf)
+---
+
+**"Streaming Attention Approximation with Page-Aligned Memory Management"**
+
+**J. H. Lee**, N. Jali, I. Han, A. Zandieh, J. Mei, J. Baek
+
+*Preliminary version in MLForSys and PALM Workshops @ NeurIPS 2026*
+
+---
+
+**"AnchorRank: Training-Free Anchor based Plan-and-Execute Decoding in DLMs"**
+
+N. Jali, **J. H. Lee**, A. Nayak, C. Lin, J. Baek
+
+*Preliminary version in DiffuLM and BeNTo Workshops @ NeurIPS 2026*
+
+---
+
+#### CONFERENCES
+
+---
+
+**"Long-Term Risks of Risk-Based Allocation"** (NeurIPS 2026)
+
+J. N. Kaur\*, **J. H. Lee\***, M. Zampetakis\*
+
+*NeurIPS 2026*
+
+---
+
+**"Learning-Enabled Estimation: Tight Characterizations under Sample Selection Biases"**
+
+V. Kher\*, **J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*
+
+*EC 2026* · [paper](https://arxiv.org/abs/2609.38608) · 
+
+---
+
+**"Smoothed Analysis of Learning from Positive Samples"** (STOC 2026)
+
+**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*
+
+*STOC 2026* · [paper](https://arxiv.org/abs/2504.10428) 
+
+---
+
+**"Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders"** 
+
+Z. Chen\*, C. Zhao\*, K. C. Mo, Y. Jiang, **J. H. Lee**, S. Chen, K. C. Mahajan, N. Jiang, K. Ren, J. Li, W. Yang
+
+*ICLR 2026* · [paper](https://arxiv.org/abs/2510.22049) · [short talk](https://iclr.cc/virtual/2026/poster/10010034)
+
+---
+
+**"Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents"** 
+    
+**J. H. Lee**, B. Saglam, S. Pougkakiotis, A. Karbasi, D. Kalogerias
+
+*Preliminary version in Duality Principles for Modern Machine Learning Workshop @ ICML 2023*
  
-#### Journal Articles
-* **"Smoothed Analysis of Learning from Positive Samples"** (under review)
-    * _Extended version of STOC 2026 paper of the same name_
-    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2504.10428) 
-* **"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"** (under review)
-    * _Extended version of FOCS 2024 paper of the same name_
-    * _**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*_ [pdf](https://arxiv.org/pdf/2410.01656)
-* **"The rural–urban stress divide: Obtaining geographical insights through twitter"** in Computers in Human Behavior
-    * _K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar_ [pdf](http://wwbp.org/papers/chb-2020.pdf)
-* **"A group-theoretic framework for data augmentation"** in Journal of Machine Learning Research (JMLR)
-    * _Extended version of NeurIPS 2020 paper of the same name_
-    * _S. Chen, E. Dobriban, and **J. H. Lee**_ [pdf](https://arxiv.org/abs/1907.10905)
+*NeurIPS 2025* · [paper](https://arxiv.org/abs/2510.20199) · [code](https://github.com/baturaysaglam/risk-averse-constrained-RL) 
+
+---
+
+**"Efficient Statistics With Unknown Truncation: Polynomial Time Algorithms Beyond Gaussians"**
+
+**J. H. Lee\***, A. Mehrotra\*, M. Zampetakis\*
+
+*FOCS 2024* · [paper](https://arxiv.org/abs/2410.01656) · [20 min talk](https://www.youtube.com/watch?v=Uz1rHXR4i-4) · [1 hr talk (Anay)](https://www.youtube.com/watch?v=qLOZoyY3cHg)
+
+---
+
+**"Learning Exponential Families from Truncated Samples"**
+    
+**J. H. Lee**, A. Wibisono, M. Zampetakis
+
+*Preliminary version in Workshop on New Frontiers in Adversarial Machine Learning @ ICML 2023*
+
+*NeurIPS 2023* · [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6d5f304fb4ed0243851e41699dca4287-Abstract-Conference.html) · [short talk](https://neurips.cc/virtual/2023/poster/71730)
+
+---
+
+**"Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation"** (AISTATS 2023)
+
+**J. H. Lee\***, S. Haghighatshoar\*, A. Karbasi
+
+*Preliminary version in Optimization for Machine Learning Workshop @ NeurIPS 2022*
+
+*AISTATS 2023* · [paper](https://arxiv.org/abs/2210.15415.pdf) · [code](https://github.com/janehjlee/exact_snn_forward_prop) · [short talk](https://slideslive.com/38993897)
+
+---
+
+**"Learning from noisy labels with no change to the training process"** (ICML 2021)
+
+M. Zhang, **J. Lee**, and S. Agarwal
+
+*ICML 2021* · [paper](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf) · [short talk (William)](https://slideslive.com/38959362)
+
+---
+
+**"A group-theoretic framework for data augmentation"** (NeurIPS 2020) **(Oral Presentation)**
+
+S. Chen, E. Dobriban, and **J. H. Lee**
+
+*NeurIPS 2020* · _**Oral Presentation**_ · [paper](https://papers.nips.cc/paper/2020/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf) · [12 min talk (Shuxiao)](https://slideslive.com/38938484) · [20 min talk](https://youtu.be/8NjkqtEov8c?si=6xi5RlxoULplowNn)
+
+---
+
+#### JOURNAL ARTICLES
+---
+
+**"The rural–urban stress divide: Obtaining geographical insights through twitter"** in Computers in Human Behavior
+
+K. Jaidka, S. C. Guntuku, **J. H. Lee**, Z. Luo, A. Buffone, and L. H. Ungar
+
+*Computers in Human Behavior* · [paper](http://wwbp.org/papers/chb-2020.pdf)
+
+---
+
+**"A group-theoretic framework for data augmentation"** in Journal of Machine Learning Research (JMLR)
+
+S. Chen, E. Dobriban, and **J. H. Lee**
+
+*Extended version of NeurIPS 2020 paper of the same name*
+
+*Journal of Machine Learning Research (JMLR)* · [paper](https://arxiv.org/abs/1907.10905)
+
+---
 
 ## Structured Fellowships and Programs
-I am a fellow of the following special programs:
-* **AI Societal Impact Lab** [[link]](https://www.aisocietalimpactlab.com/fellowship-autumn-2026) -- Inaugural Autumn 2026 Fellow
-    * _Studying the socio-political implications of emerging AI technology_
-* **Mass Atrocities in the Digital Era (MADE)** [[link]](https://macmillan.yale.edu/gsp/fellowship) -- Fellow (2025-2026)
-    * _Studying the role that emerging technology plays in mass atrocities, with a focus on accountability, corporate
-responsibility, and genocide studies scholarship_
+
+
+**AI Societal Impact Lab** 
+
+Studying the socio-political implications of emerging AI technology. As a cohort of 16, this fellowship brings together perspectives from different disciplines to look at societal impact of AI.
+
+*Inaugural Autumn 2026 Fellow* · [Fellowship Page](https://www.aisocietalimpactlab.com/fellowship-autumn-2026)
+
+ ---
+   
+**Mass Atrocities in the Digital Era (MADE)**
+
+Studying the role that emerging technology plays in mass atrocities, with a focus on accountability, corporate
+responsibility, and genocide studies scholarship. 
+
+*MADE Fellow (2025-2026)* · [Fellowship Page](https://macmillan.yale.edu/gsp/fellowship)
+
+---
 
 ## Teaching
 Yale University:
 
-I received the Yale CS Department Distinguished Teaching Award for 2022-2023.
+I received the **Yale CS Department Distinguished Teaching Award** for 2022-2023.
 - Probabilistic Machine Learning (CPSC 586), Teaching Fellow (Spring 2023) [evaluation](/assets/docs/Evals_10-11.pdf)
 - Introduction to Database Systems (CPSC 537), Teaching Fellow (Fall 2022) [evaluation](/assets/docs/Evals_22-23.pdf)
 
@@ -113,7 +210,7 @@ University Service:
 
 Academic Service:
 - Program committee: EC 2026
-- Reviewer: 
+- Reviewer (or subreviewer): 
     - Conferences: ITCS 2023, FOCS 2024, COLT 2025, NeurIPS 2025, ICLR 2026, EC 2026, NeurIPS 2026, SODA 2027, STOC 2027
     - Journals: JMLR
 
